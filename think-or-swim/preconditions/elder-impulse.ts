@@ -28,4 +28,4 @@ AssignPriceColor(if bulls_in_charge and up_day then Color.GREEN
 # blue for white candles when bears are in charge
 # orange for black candles when bears are in charge
 
-# otherwise, normal style colors apply otherwise, normal style colors apply
+# otherwise, normal style colors apply
